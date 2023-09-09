@@ -11,4 +11,5 @@ wget https://mega.nz/folder/3DxykIwS#qYGZKN6XVqQvpNXpF0KCFw
 wget https://mega.nz/folder/HS4TSKBJ#FkVslmYkHFzLZ_D4RJdRNg
 
 wget https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
+# return Calculator = Optimizer > Apps UWP > Microsoft.WindowsCalculator
 wget https://www.3dpchip.com/new/3DP_Chip_v2307.exe
