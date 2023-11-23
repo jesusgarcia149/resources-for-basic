@@ -4,6 +4,7 @@ choco install googlechrome -y
 choco install vlc -y
 choco install qbittorrent -y
 choco install wget -y
+choco install nettime -y
 
 # Activator for Win10
 wget https://mega.nz/folder/3DxykIwS#qYGZKN6XVqQvpNXpF0KCFw
