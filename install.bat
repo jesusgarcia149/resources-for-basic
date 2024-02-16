@@ -10,7 +10,7 @@ wget https://mega.nz/folder/3DxykIwS#qYGZKN6XVqQvpNXpF0KCFw
 # Activator for Win7
 wget https://mega.nz/folder/HS4TSKBJ#FkVslmYkHFzLZ_D4RJdRNg
 
-# choco install driverbooster -y
+# choco install snappy-driver-installer-origin -y
 
 wget https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
 # return Calculator = Optimizer > Apps UWP > Microsoft.WindowsCalculator
